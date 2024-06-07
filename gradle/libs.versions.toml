@@ -1,5 +1,5 @@
 [versions]
-kotest = "5.8.0"
+kotest = "5.9.1"
 kotlinx-coroutines = "1.7.0"
 mockserver-netty = "5.15.0"
 ktor = "1.6.8"
